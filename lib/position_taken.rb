@@ -1,5 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def position_taken?(board, index)
-  board[0] != " "
-  board[1] != " "
+  position_taken?[0] != " "
+  position_taken?[1] != " "
 end
