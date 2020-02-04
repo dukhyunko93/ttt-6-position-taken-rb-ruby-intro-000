@@ -1,4 +1,4 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def position_taken?(board, index)
-  board[0] == " "
+  returns false if the board has an empty " " in the desired index
 end
